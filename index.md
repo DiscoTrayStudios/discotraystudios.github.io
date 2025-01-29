@@ -129,7 +129,7 @@ sections:
         url: 'https://coltenberry.github.io/Blog/'
       - title: DYLAN CARTER
         text: Big Solitaire Fan
-        image: assets/img/members/Dylan.jpeg
+        image: assets/img/members/Dylan.png
         url: ''
   - type: members.html
     section_id: members
