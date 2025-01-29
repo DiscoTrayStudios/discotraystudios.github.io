@@ -111,10 +111,6 @@ sections:
         text: Mobile Mogul, Web Warrior
         image: assets/img/members/RyanF.png
         url: 'https://ryfuller03.github.io/blog/'
-      - title: KATHERINE REID
-        text: Speaks Binary and Non-binary
-        image: assets/img/members/Katherine.jpg
-        url: 'https://reidst.github.io/blog/'
       - title: ELLIOT ALLEN
         text: HDX World Heavyweight Champion
         image: assets/img/members/SquareElliot.jpg
@@ -136,6 +132,10 @@ sections:
     title: Our Alumni!
     background_style: bg-warning text-white
     members:
+      - title: KATHERINE REID
+        text: Speaks Binary and Non-binary
+        image: assets/img/members/Katherine.jpg
+        url: 'https://reidst.github.io/blog/'
       - title: HAYDEN MOUSSA
         text: Gitting my Money Up
         image: assets/img/members/Hayden.jpg
