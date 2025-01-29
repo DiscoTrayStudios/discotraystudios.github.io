@@ -123,6 +123,14 @@ sections:
         text: Robotics Enjoyer
         image: assets/img/members/Joseph.jpg
         url: 'https://jkwashu.github.io/Blog/'
+      - title: COLTEN BERRY
+        text: Little Caesars Enthusiast
+        image: assets/img/members/Colten.jpg
+        url: 'https://coltenberry.github.io/Blog/'
+      - title: DYLAN CARTER
+        text: Big Solitaire Fan
+        image: assets/img/members/Dylan.jpeg
+        url: ''
   - type: members.html
     section_id: members
     title: Our Alumni!
