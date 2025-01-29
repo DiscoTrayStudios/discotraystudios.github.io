@@ -103,18 +103,10 @@ sections:
         text: 01001000 01101001
         image: assets/img/members/Amelia.jpg
         url: 'https://jonesamelia.github.io/blog/'
-      - title: KOLYA SOUVORIN
-        text: Lizard of Oz
-        image: assets/img/members/KolyaSquare.jpg
-        url: 'https://souvorinkg.github.io/'
       - title: ZOIE KEYS
         text: Certified Gamer
         image: assets/img/members/Zoie.jpg
         url: 'https://keyszl.github.io/blog/'
-      - title: HAYDEN MOUSSA
-        text: Gitting my Money Up
-        image: assets/img/members/Hayden.jpg
-        url: https://haydenmoussa.github.io/MoussaWebSite/
       - title: RYAN FULLER
         text: Mobile Mogul, Web Warrior
         image: assets/img/members/RyanF.png
@@ -132,6 +124,14 @@ sections:
     title: Our Alumni!
     background_style: bg-warning text-white
     members:
+      - title: HAYDEN MOUSSA
+        text: Gitting my Money Up
+        image: assets/img/members/Hayden.jpg
+        url: https://haydenmoussa.github.io/MoussaWebSite/
+      - title: KOLYA SOUVORIN
+        text: Lizard of Oz
+        image: assets/img/members/KolyaSquare.jpg
+        url: 'https://souvorinkg.github.io/'
       - title: TED BJURLIN
         text: Not a Figment of Your Imagination
         image: assets/img/members/Ted.jpg
