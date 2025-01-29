@@ -123,6 +123,10 @@ sections:
         text: Little Caesars Enthusiast
         image: assets/img/members/Colten.jpg
         url: 'https://coltenberry.github.io/Blog/'
+      - title: DYLAN CARTER
+        text: Big Solitare Fan
+        image: assets/img/members/Dylan.jpeg
+        url: ''
   - type: members.html
     section_id: members
     title: Our Alumni!
