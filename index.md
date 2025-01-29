@@ -119,6 +119,10 @@ sections:
         text: HDX World Heavyweight Champion
         image: assets/img/members/SquareElliot.jpg
         url: 'https://elliotallen1.github.io/blog/'
+      - title: COLTEN BERRY
+        text: Little Caesars Enthusiast
+        image: assets/img/member/Colten.jpg
+        url: 'https://coltenberry.github.io/Blog/'
   - type: members.html
     section_id: members
     title: Our Alumni!
