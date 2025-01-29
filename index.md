@@ -121,7 +121,7 @@ sections:
         url: 'https://elliotallen1.github.io/blog/'
       - title: Dylan Carter
         text: Big Solitare Fan
-        image: assets/img/members/Dylan.jpeg
+        image: assets/img/members/Dylan.png
         url: ''
   - type: members.html
     section_id: members
