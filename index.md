@@ -119,6 +119,10 @@ sections:
         text: HDX World Heavyweight Champion
         image: assets/img/members/SquareElliot.jpg
         url: 'https://elliotallen1.github.io/blog/'
+      - title: JOSEPH WASHUM
+        text: Robotics Enjoyer
+        image: assets/img/members/Joseph.jpg
+        url: 'https://jkwashu.github.io/Blog/'
   - type: members.html
     section_id: members
     title: Our Alumni!
