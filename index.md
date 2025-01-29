@@ -121,7 +121,7 @@ sections:
         url: 'https://elliotallen1.github.io/blog/'
       - title: COLTEN BERRY
         text: Little Caesars Enthusiast
-        image: assets/img/member/Colten.jpg
+        image: assets/img/members/Colten.jpg
         url: 'https://coltenberry.github.io/Blog/'
   - type: members.html
     section_id: members
