@@ -119,7 +119,11 @@ sections:
         text: HDX World Heavyweight Champion
         image: assets/img/members/SquareElliot.jpg
         url: 'https://elliotallen1.github.io/blog/'
-      - title: Dylan Carter
+      - title: COLTEN BERRY
+        text: Little Caesars Enthusiast
+        image: assets/img/member/Colten.jpg
+        url: 'https://coltenberry.github.io/Blog/'
+      - title: DYLAN CARTER
         text: Big Solitare Fan
         image: assets/img/members/Dylan.jpeg
         url: ''
