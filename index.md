@@ -126,7 +126,7 @@ sections:
       - title: DYLAN CARTER
         text: Big Solitaire Fan
         image: assets/img/members/Dylan.png
-        url: ''
+        url: 'https://wp.dylwcar.com/'
   - type: members.html
     section_id: members
     title: Our Alumni!
