@@ -120,6 +120,10 @@ sections:
     title: Our Alumni!
     background_style: bg-warning text-white
     members:
+      - title: EDEN ROBBINS
+        text: Lady of Languages
+        image: ''
+        url: 'https://denrobbinsdts.home.blog/'
       - title: JOSEPH WASHUM
         text: Robotics Enjoyer
         image: assets/img/members/Joseph.jpg
