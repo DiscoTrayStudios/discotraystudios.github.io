@@ -122,7 +122,7 @@ sections:
     members:
       - title: EDEN ROBBINS
         text: Lady of Languages
-        image: ''
+        image: assets/img/members/Eden.jpg
         url: 'https://denrobbinsdts.home.blog/'
       - title: JOSEPH WASHUM
         text: Robotics Enjoyer
