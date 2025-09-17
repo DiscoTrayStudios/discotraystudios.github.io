@@ -115,15 +115,15 @@ sections:
         text: Big Solitaire Fan
         image: assets/img/members/Dylan.png
         url: 'https://wp.dylwcar.com/'
+      - title: EDEN ROBBINS
+        text: Lady of Languages
+        image: assets/img/members/Eden.jpg
+        url: 'https://denrobbinsdts.home.blog/'
   - type: members.html
     section_id: members
     title: Our Alumni!
     background_style: bg-warning text-white
     members:
-      - title: EDEN ROBBINS
-        text: Lady of Languages
-        image: assets/img/members/Eden.jpg
-        url: 'https://denrobbinsdts.home.blog/'
       - title: JOSEPH WASHUM
         text: Robotics Enjoyer
         image: assets/img/members/Joseph.jpg
