@@ -103,10 +103,6 @@ sections:
         text: 01001000 01101001
         image: assets/img/members/Amelia.jpg
         url: 'https://jonesamelia.github.io/blog/'
-      - title: ELLIOT ALLEN
-        text: HDX World Heavyweight Champion
-        image: assets/img/members/SquareElliot.jpg
-        url: 'https://elliotallen1.github.io/blog/'
       - title: COLTEN BERRY
         text: Little Caesars Enthusiast
         image: assets/img/members/Colten.jpg
@@ -124,6 +120,10 @@ sections:
     title: Our Alumni!
     background_style: bg-warning text-white
     members:
+      - title: ELLIOT ALLEN
+        text: HDX World Heavyweight Champion
+        image: assets/img/members/SquareElliot.jpg
+        url: 'https://elliotallen1.github.io/blog/'
       - title: JOSEPH WASHUM
         text: Robotics Enjoyer
         image: assets/img/members/Joseph.jpg
