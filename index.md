@@ -111,6 +111,10 @@ sections:
         text: Big Solitaire Fan
         image: assets/img/members/Dylan.png
         url: 'https://wp.dylwcar.com/'
+      - title: LOGAN O'ROARK
+        text: Avid Football Fan
+        image: assets/img/members/Logan.jpg
+        url: 'https://loganoroark.wordpress.com/'
       - title: EDEN ROBBINS
         text: Lady of Languages
         image: assets/img/members/Eden.jpg
