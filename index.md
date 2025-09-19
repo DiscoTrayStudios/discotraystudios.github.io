@@ -103,10 +103,6 @@ sections:
         text: 01001000 01101001
         image: assets/img/members/Amelia.jpg
         url: 'https://jonesamelia.github.io/blog/'
-      - title: ELLIOT ALLEN
-        text: HDX World Heavyweight Champion
-        image: assets/img/members/SquareElliot.jpg
-        url: 'https://elliotallen1.github.io/blog/'
       - title: COLTEN BERRY
         text: Little Caesars Enthusiast
         image: assets/img/members/Colten.jpg
@@ -119,11 +115,19 @@ sections:
         text: Avid Football Fan
         image: assets/img/members/Logan.jpg
         url: 'https://loganoroark.wordpress.com/'
+      - title: EDEN ROBBINS
+        text: Lady of Languages
+        image: assets/img/members/Eden.jpg
+        url: 'https://denrobbinsdts.home.blog/'
   - type: members.html
     section_id: members
     title: Our Alumni!
     background_style: bg-warning text-white
     members:
+      - title: ELLIOT ALLEN
+        text: HDX World Heavyweight Champion
+        image: assets/img/members/SquareElliot.jpg
+        url: 'https://elliotallen1.github.io/blog/'
       - title: JOSEPH WASHUM
         text: Robotics Enjoyer
         image: assets/img/members/Joseph.jpg
