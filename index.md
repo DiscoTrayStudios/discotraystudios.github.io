@@ -115,6 +115,10 @@ sections:
         text: Big Solitaire Fan
         image: assets/img/members/Dylan.png
         url: 'https://wp.dylwcar.com/'
+      - title: LOGAN O'ROARK
+        text: Avid Football Fan
+        image: assets/img/members/Logan.jpg
+        url: 'https://loganoroark.wordpress.com/'
   - type: members.html
     section_id: members
     title: Our Alumni!
