@@ -103,35 +103,55 @@ sections:
         text: 01001000 01101001
         image: assets/img/members/Amelia.jpg
         url: 'https://jonesamelia.github.io/blog/'
-      - title: KOLYA SOUVORIN
-        text: Lizard of Oz
-        image: assets/img/members/KolyaSquare.jpg
-        url: 'https://souvorinkg.github.io/'
-      - title: ZOIE KEYS
-        text: Certified Gamer
-        image: assets/img/members/Zoie.jpg
-        url: 'https://keyszl.github.io/blog/'
-      - title: HAYDEN MOUSSA
-        text: Gitting my Money Up
-        image: assets/img/members/Hayden.jpg
-        url: https://haydenmoussa.github.io/MoussaWebSite/
-      - title: RYAN FULLER
-        text: Mobile Mogul, Web Warrior
-        image: assets/img/members/RyanF.png
-        url: 'https://ryfuller03.github.io/blog/'
-      - title: KATHERINE REID
-        text: Speaks Binary and Non-binary
-        image: assets/img/members/Katherine.jpg
-        url: 'https://reidst.github.io/blog/'
-      - title: ELLIOT ALLEN
-        text: HDX World Heavyweight Champion
-        image: assets/img/members/SquareElliot.jpg
-        url: 'https://elliotallen1.github.io/blog/'
+      - title: COLTEN BERRY
+        text: Little Caesars Enthusiast
+        image: assets/img/members/Colten.jpg
+        url: 'https://coltenberry.github.io/Blog/'
+      - title: DYLAN CARTER
+        text: Big Solitaire Fan
+        image: assets/img/members/Dylan.png
+        url: 'https://wp.dylwcar.com/'
+      - title: LOGAN O'ROARK
+        text: Avid Football Fan
+        image: assets/img/members/Logan.jpg
+        url: 'https://loganoroark.wordpress.com/'
+      - title: EDEN ROBBINS
+        text: Lady of Languages
+        image: assets/img/members/Eden.jpg
+        url: 'https://denrobbinsdts.home.blog/'
   - type: members.html
     section_id: members
     title: Our Alumni!
     background_style: bg-warning text-white
     members:
+      - title: ELLIOT ALLEN
+        text: HDX World Heavyweight Champion
+        image: assets/img/members/SquareElliot.jpg
+        url: 'https://elliotallen1.github.io/blog/'
+      - title: JOSEPH WASHUM
+        text: Robotics Enjoyer
+        image: assets/img/members/Joseph.jpg
+        url: 'https://jkwashu.github.io/Blog/'
+      - title: RYAN FULLER
+        text: Mobile Mogul, Web Warrior
+        image: assets/img/members/RyanF.png
+        url: 'https://ryfuller03.github.io/blog/'
+      - title: ZOIE KEYS
+        text: Certified Gamer
+        image: assets/img/members/Zoie.jpg
+        url: 'https://keyszl.github.io/blog/'
+      - title: KATHERINE REID
+        text: Speaks Binary and Non-binary
+        image: assets/img/members/Katherine.jpg
+        url: 'https://reidst.github.io/blog/'
+      - title: HAYDEN MOUSSA
+        text: Gitting my Money Up
+        image: assets/img/members/Hayden.jpg
+        url: https://haydenmoussa.github.io/MoussaWebSite/
+      - title: KOLYA SOUVORIN
+        text: Lizard of Oz
+        image: assets/img/members/KolyaSquare.jpg
+        url: 'https://souvorinkg.github.io/'
       - title: TED BJURLIN
         text: Not a Figment of Your Imagination
         image: assets/img/members/Ted.jpg
