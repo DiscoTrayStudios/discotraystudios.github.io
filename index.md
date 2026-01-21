@@ -119,6 +119,10 @@ sections:
         text: Lady of Languages
         image: assets/img/members/Eden.jpg
         url: 'https://denrobbinsdts.home.blog/'
+      - title: ELLIOT ALLEN
+        text: HDX Heavyweight Champion
+        image: assets/img/members/SquareElliot.jpg
+        url: 'https://elliotallen1.github.io/blog/'
   - type: members.html
     section_id: members
     title: Our Alumni!
