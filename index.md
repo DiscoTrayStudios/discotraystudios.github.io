@@ -104,9 +104,9 @@ sections:
         image: assets/img/members/Dylan.png
         url: 'https://wp.dylwcar.com/'
       - title: BRYSON DeLOZIER
-        text: Ramen Noodle Enthusiast
+        text: Loves Ramen Noodles
         image: assets/img/members/Bryson.png
-        url: 'https://brysondddelozier.github.io/blog/'
+        url: 'https://brysonddelozier.github.io/blog/'
       - title: ANNABEL MEHARI
         text: Walking Side Quest
         image: assets/img/members/Annabel.jpeg
