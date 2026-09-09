@@ -111,6 +111,10 @@ sections:
         text: Walking Side Quest
         image: assets/img/members/Annabel.jpeg
         url: 'https://github.com/Annabelx61'
+      - title: CHRIS BELL
+        text: Disappointed Razorbacks Fan
+        image: assets/img/members/Chris.png
+        url: 'https://chrisnbell.github.io/blog/'
   - type: members.html
     section_id: members
     title: Our Alumni!
