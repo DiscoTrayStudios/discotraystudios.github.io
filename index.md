@@ -103,6 +103,14 @@ sections:
         text: Big Solitaire Fan
         image: assets/img/members/Dylan.png
         url: 'https://wp.dylwcar.com/'
+      - title: BRYSON DeLOZIER
+        text: Ramen Noodle Enthusiast
+        image: assets/img/members/Bryson.png
+        url: 'https://brysondddelozier.github.io/blog/'
+      - title: ANNABEL MEHARI
+        text: Walking Side Quest
+        image: assets/img/members/Annabel.jpeg
+        url: 'https://github.com/Annabelx61'
   - type: members.html
     section_id: members
     title: Our Alumni!
