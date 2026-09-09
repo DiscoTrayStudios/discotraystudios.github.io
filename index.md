@@ -111,6 +111,10 @@ sections:
         text: Walking Side Quest
         image: assets/img/members/Annabel.jpeg
         url: 'https://github.com/Annabelx61'
+      - title: DREW WILLIAMS
+        text: Tuba for life
+        image: assets/img/members/Drew.png
+        url: 'https://drewwilliams68.github.io/DiscoTrayBlog/'
   - type: members.html
     section_id: members
     title: Our Alumni!
@@ -224,6 +228,7 @@ sections:
         text: Social Justice Sorcerer
         image: assets/img/members/Grifith.png
         url: 'https://samorege.github.io/hdxCompBlog/'
+
 
   - type: timeline.html
     section_id: timeline
