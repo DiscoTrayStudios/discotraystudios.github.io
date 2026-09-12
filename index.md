@@ -109,8 +109,8 @@ sections:
         url: 'https://brysonddelozier.github.io/blog/'
       - title: ANNABEL MEHARI
         text: Walking Side Quest
-        image: assets/img/members/Annabel.jpeg
-        url: 'https://github.com/Annabelx61'
+        image: assests/img/members/Annabel.jpeg
+        url: 'https://annabelbuilds.hashnode.dev/'
       - title: CHRIS BELL
         text: Disappointed Razorbacks Fan
         image: assets/img/members/Chris.png
