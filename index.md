@@ -110,7 +110,7 @@ sections:
       - title: ANNABEL MEHARI
         text: Walking Side Quest
         image: assests/img/members/Annabel.jpeg
-        url: 'https://github.com/Annabelx61'
+        url: 'https://annabelbuilds.hashnode.dev/'
   - type: members.html
     section_id: members
     title: Our Alumni!
