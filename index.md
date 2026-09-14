@@ -110,7 +110,7 @@ sections:
       - title: ANNABEL MEHARI
         text: Walking Side Quest
         image: assets/img/members/Annabel.jpeg
-        url: 'https://github.com/Annabelx61'
+        url: 'https://annabelbuilds.hashnode.dev/'
       - title: JAY WINGFIELD
         text: egmentation fault (yoke dumped)
         image: assets/img/members/Jay.jpg
