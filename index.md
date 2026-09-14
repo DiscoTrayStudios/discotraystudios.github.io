@@ -121,7 +121,7 @@ sections:
         url: 'https://chrisnbell.github.io/blog/'
       - title: DREW WILLIAMS
         text: Tuba for life
-        image: assets/img/members/Drew.png
+        image: assets/img/members/Drew2.png
         url: 'https://drewwilliams68.github.io/DiscoTrayBlog/'
   - type: members.html
     section_id: members
