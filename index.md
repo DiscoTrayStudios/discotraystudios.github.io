@@ -32,7 +32,7 @@ sections:
         icon: fa-gem text-info
         image: assets/img/htlogoAsset2.png
         url: https://discotraystudios.github.io/hendrix-today/
-        
+
       - title: "Hendrix Arboretum"
         text: Find a tree tag at Hendrix, and search to learn more information about it.
         icon: fa-gem text-info
@@ -109,8 +109,12 @@ sections:
         url: 'https://brysonddelozier.github.io/blog/'
       - title: ANNABEL MEHARI
         text: Walking Side Quest
-        image: assests/img/members/Annabel.jpeg
-        url: 'https://annabelbuilds.hashnode.dev/'
+        image: assets/img/members/Annabel.jpeg
+        url: 'https://github.com/Annabelx61'
+      - title: JAY WINGFIELD
+        text: egmentation fault (yoke dumped)
+        image: assets/img/members/Jay.jpg
+        url: 'https://ayilat.github.io/disco-blog'
       - title: CHRIS BELL
         text: Disappointed Razorbacks Fan
         image: assets/img/members/Chris.png
