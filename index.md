@@ -104,9 +104,9 @@ sections:
         image: assets/img/members/Dylan.png
         url: 'https://wp.dylwcar.com/'
       - title: BRYSON DeLOZIER
-        text: Ramen Noodle Enthusiast
+        text: Loves Ramen Noodles
         image: assets/img/members/Bryson.png
-        url: 'https://brysondddelozier.github.io/blog/'
+        url: 'https://brysonddelozier.github.io/blog/'
       - title: ANNABEL MEHARI
         text: Walking Side Quest
         image: assets/img/members/Annabel.jpeg
@@ -115,6 +115,14 @@ sections:
         text: egmentation fault (yoke dumped)
         image: assets/img/members/Jay.jpg
         url: 'https://ayilat.github.io/disco-blog'
+      - title: CHRIS BELL
+        text: Disappointed Razorbacks Fan
+        image: assets/img/members/Chris.png
+        url: 'https://chrisnbell.github.io/blog/'
+      - title: DREW WILLIAMS
+        text: Tuba for life
+        image: assets/img/members/Drew.png
+        url: 'https://drewwilliams68.github.io/DiscoTrayBlog/'
   - type: members.html
     section_id: members
     title: Our Alumni!
@@ -228,6 +236,7 @@ sections:
         text: Social Justice Sorcerer
         image: assets/img/members/Grifith.png
         url: 'https://samorege.github.io/hdxCompBlog/'
+
 
   - type: timeline.html
     section_id: timeline
