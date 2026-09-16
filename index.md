@@ -118,7 +118,7 @@ sections:
       - title: DREW WILLIAMS
         text: Tuba for life
         image: assets/img/members/Drew2.png
-        url: 'https://drewwilliams68.github.io/DiscoTrayBlog/'
+        url: 'https://andrewguy68.github.io/DiscoTrayBlog/'
   - type: members.html
     section_id: members
     title: Our Alumni!
