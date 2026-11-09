@@ -8,7 +8,6 @@ header:
   #   label: Find Out More
   #   url: '#about'
 
-
 sections:
   - type: call-to-action.html
     section_id: about
@@ -26,7 +25,6 @@ sections:
     title: Our Projects
     background_style: bg-warning
     services:
-
       - title: Hendrix Today
         text: Hendrix Today is an app that allows you to keep up to date with community events, updates, and notices at Hendrix College.
         icon: fa-gem text-info
@@ -81,7 +79,6 @@ sections:
         image: assets/img/logo500.png
         url: https://discotraystudios.github.io/my-life-in-months/
 
-
   # - type: aside.html
   #   section_id: aside
   #   title: Free Download at Start Bootstrap!
@@ -98,31 +95,35 @@ sections:
       - title: DR. MARK GOADRICH
         text: Very Fond of Lemurs
         image: assets/img/members/DrGoadrich.png
-        url: 'http://mark.goadrich.com/'
+        url: "http://mark.goadrich.com/"
       - title: DYLAN CARTER
         text: Big Solitaire Fan
         image: assets/img/members/Dylan.png
-        url: 'https://wp.dylwcar.com/'
+        url: "https://wp.dylwcar.com/"
       - title: BRYSON DeLOZIER
         text: Loves Ramen Noodles
         image: assets/img/members/Bryson.png
-        url: 'https://brysonddelozier.github.io/blog/'
+        url: "https://brysonddelozier.github.io/blog/"
       - title: ANNABEL MEHARI
         text: Walking Side Quest
         image: assets/img/members/Annabel.jpeg
-        url: 'https://annabelbuilds.hashnode.dev/'
+        url: "https://annabelbuilds.hashnode.dev/"
       - title: JAY WINGFIELD
         text: egmentation fault (yoke dumped)
         image: assets/img/members/Jay.jpg
-        url: 'https://ayilat.github.io/disco-blog'
+        url: "https://ayilat.github.io/disco-blog"
       - title: CHRIS BELL
         text: Disappointed Razorbacks Fan
         image: assets/img/members/Chris.png
-        url: 'https://chrisnbell.github.io/blog/'
+        url: "https://chrisnbell.github.io/blog/"
       - title: DREW WILLIAMS
         text: Tuba for life
         image: assets/img/members/Drew2.png
-        url: 'https://andrewguy68.github.io/DiscoTrayBlog/'
+        url: "https://andrewguy68.github.io/DiscoTrayBlog/"
+      - title: AMIKO KOZMANISHVILI
+        text: Just a Chill Georgian
+        image: assets/img/members/Amiko.jpg
+        url: "https://akozmanishvili.github.io/blog/"
   - type: members.html
     section_id: members
     title: Our Alumni!
@@ -131,39 +132,39 @@ sections:
       - title: AMELIA JONES
         text: 01001000 01101001
         image: assets/img/members/Amelia.jpg
-        url: 'https://jonesamelia.github.io/blog/'
+        url: "https://jonesamelia.github.io/blog/"
       - title: COLTEN BERRY
         text: Little Caesars Enthusiast
         image: assets/img/members/Colten.jpg
-        url: 'https://coltenberry.github.io/Blog/'
+        url: "https://coltenberry.github.io/Blog/"
       - title: LOGAN O'ROARK
         text: Avid Football Fan
         image: assets/img/members/Logan.jpg
-        url: 'https://loganoroark.wordpress.com/'
+        url: "https://loganoroark.wordpress.com/"
       - title: EDEN ROBBINS
         text: Lady of Languages
         image: assets/img/members/Eden.jpg
-        url: 'https://denrobbinsdts.home.blog/'
+        url: "https://denrobbinsdts.home.blog/"
       - title: ELLIOT ALLEN
         text: HDX World Heavyweight Champion
         image: assets/img/members/SquareElliot.jpg
-        url: 'https://elliotallen1.github.io/blog/'
+        url: "https://elliotallen1.github.io/blog/"
       - title: JOSEPH WASHUM
         text: Robotics Enjoyer
         image: assets/img/members/Joseph.jpg
-        url: 'https://jkwashu.github.io/Blog/'
+        url: "https://jkwashu.github.io/Blog/"
       - title: RYAN FULLER
         text: Mobile Mogul, Web Warrior
         image: assets/img/members/RyanF.png
-        url: 'https://ryfuller03.github.io/blog/'
+        url: "https://ryfuller03.github.io/blog/"
       - title: ZOIE KEYS
         text: Certified Gamer
         image: assets/img/members/Zoie.jpg
-        url: 'https://keyszl.github.io/blog/'
+        url: "https://keyszl.github.io/blog/"
       - title: KATHERINE REID
         text: Speaks Binary and Non-binary
         image: assets/img/members/Katherine.jpg
-        url: 'https://reidst.github.io/blog/'
+        url: "https://reidst.github.io/blog/"
       - title: HAYDEN MOUSSA
         text: Gitting my Money Up
         image: assets/img/members/Hayden.jpg
@@ -171,11 +172,11 @@ sections:
       - title: KOLYA SOUVORIN
         text: Lizard of Oz
         image: assets/img/members/KolyaSquare.jpg
-        url: 'https://souvorinkg.github.io/'
+        url: "https://souvorinkg.github.io/"
       - title: TED BJURLIN
         text: Not a Figment of Your Imagination
         image: assets/img/members/Ted.jpg
-        url: 'https://github.com/tedbjurlin'
+        url: "https://github.com/tedbjurlin"
       - title: TYRONE MASON
         text: Living in a Virtual Insanity
         image: assets/img/members/Mason.png
@@ -183,60 +184,59 @@ sections:
       - title: JONATHON QUALLS
         text: Game Design Guy
         image: assets/img/members/Jonathon.jpg
-        url: 'https://jqual1.github.io/blog/'
+        url: "https://jqual1.github.io/blog/"
       - title: OLIVIA LARSON
         text: Likes Java in a Cup and on the Screen
         image: assets/img/members/Olivia.jpg
-        url: 'https://larsonog.github.io/blog/'
+        url: "https://larsonog.github.io/blog/"
       - title: MATTHEW KALAHIKI
         text: NullPointerException
         image: assets/img/members/Matthew.jpg
-        url: 'https://matthew-kalahiki.github.io/'
+        url: "https://matthew-kalahiki.github.io/"
       - title: NOAH MORRIS
         text: No Flex Zone
         image: assets/img/members/Noah.png
-        url: 'https://brimstonetrader.github.io/archive/'
+        url: "https://brimstonetrader.github.io/archive/"
       - title: ISAAC KHOUNBORINE
         text: It worked in my Imagination
         image: assets/img/members/Isaac.jpg
-        url: 'https://khounborineii.github.io/blog/'
+        url: "https://khounborineii.github.io/blog/"
       - title: IAN CAMPBELL
         text: Finds Computers Fun
         image: assets/img/members/Ian.jpg
-        url: 'https://ianc02.github.io/'
+        url: "https://ianc02.github.io/"
       - title: CONNOR ESCAJEDA
         text: Biiiig Track Guy
         image: assets/img/members/Connor.jpg
-        url: 'https://connorescajeda.github.io/blog'
+        url: "https://connorescajeda.github.io/blog"
       - title: LUCY LYON
         text: Three Raccoons in a Trench Coat
         image: assets/img/members/Lucy.png
-        url: 'https://lucylyon.github.io/'
+        url: "https://lucylyon.github.io/"
       - title: ANDREI STOYANOW
         text: The Code-kage
         image: assets/img/members/Andrei.jpg
-        url: 'https://astoyanow.github.io/mysite/'
+        url: "https://astoyanow.github.io/mysite/"
       - title: ANDREW EVELD
         text: Small Town Computer Boy
         image: assets/img/members/Andrew.jpg
-        url: 'https://andreweveld.github.io/csci340blog/index.html'
+        url: "https://andreweveld.github.io/csci340blog/index.html"
       - title: VI NGUYEN
         text: Just Wants One More Cat
         image: assets/img/members/Vi.jpeg
-        url: 'https://nguyenvvv.github.io/csci340blog/about/'
+        url: "https://nguyenvvv.github.io/csci340blog/about/"
       - title: INNOCENT NSABIMANA
         text: Technology Enthusiast
         image: assets/img/members/Innocent.jpg
-        url: 'https://nsabimana1.github.io/csci340blog//about/'
+        url: "https://nsabimana1.github.io/csci340blog//about/"
       - title: IVY JACKSON
         text: Code and Cat Wrangler
         image: assets/img/members/Ivy.jpg
-        url: 'https://ivyjsgit.github.io'
+        url: "https://ivyjsgit.github.io"
       - title: GRIFFITH SAMORE
         text: Social Justice Sorcerer
         image: assets/img/members/Grifith.png
-        url: 'https://samorege.github.io/hdxCompBlog/'
-
+        url: "https://samorege.github.io/hdxCompBlog/"
 
   - type: timeline.html
     section_id: timeline
@@ -256,7 +256,7 @@ sections:
           A website where you can document your life throughout the months.
       - image: assets/img/hdxlogo7.png
         title: >+
-         [October 2020 - Hendrix Assessment Started](https://discotraystudios.github.io/2020/11/04/hdx-assessment.html)
+          [October 2020 - Hendrix Assessment Started](https://discotraystudios.github.io/2020/11/04/hdx-assessment.html)
         text: >-
           A website for all Hendrix professors to assess how many students met certain learning goals at the end of the semeter.
       - image: assets/img/twitchlogo.jpg
@@ -300,7 +300,6 @@ sections:
           April 2023 - VITAmin Tax Accounting!
         text: We released [VITAmin](https://github.com/DiscoTrayStudios/VITAmin/), a desktop application for organizing an aggregate of tax return information for users involved in helping and handling tax returns for clients.
 
-
   - type: contact.html
     section_id: contacts
     title: Let's Get In Touch!
@@ -309,25 +308,24 @@ sections:
       Ready to start your next project with us? Send us a message at discotraystudios@gmail.com
       and we will get back to you as soon as possible!
     actions:
-    - title: Github
-      icon: fa-github
-      icon_type: fab
-      url: https://github.com/DiscoTrayStudios
-    - title: Twitter
-      icon: fa-twitter
-      icon_type: fab
-      url: https://twitter.com/disco_tray
-    - title: Facebook
-      icon: fa-facebook
-      icon_type: fab
-      url: 'https://www.facebook.com/discotraystudios/'
-    - title: Itch.io
-      icon: fa-itch-io
-      icon_type: fab
-      url: 'https://discotraystudios.itch.io/'
-    - title: Linkedin
-      icon: fa-linkedin
-      icon_type: fab
-      url: 'https://www.linkedin.com/company/91125969/'
-
+      - title: Github
+        icon: fa-github
+        icon_type: fab
+        url: https://github.com/DiscoTrayStudios
+      - title: Twitter
+        icon: fa-twitter
+        icon_type: fab
+        url: https://twitter.com/disco_tray
+      - title: Facebook
+        icon: fa-facebook
+        icon_type: fab
+        url: "https://www.facebook.com/discotraystudios/"
+      - title: Itch.io
+        icon: fa-itch-io
+        icon_type: fab
+        url: "https://discotraystudios.itch.io/"
+      - title: Linkedin
+        icon: fa-linkedin
+        icon_type: fab
+        url: "https://www.linkedin.com/company/91125969/"
 ---
